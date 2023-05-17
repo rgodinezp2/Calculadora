@@ -1,0 +1,10 @@
+C:\Users\ASUS\Documents\Umg\7mo. ciclo 2023\Compiladores\Parcial final\Tarea calculadora\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\ASUS\Documents\Umg\7mo. ciclo 2023\Compiladores\Parcial final\Tarea calculadora\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\ASUS\Documents\Umg\7mo. ciclo 2023\Compiladores\Parcial final\Tarea calculadora\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\ASUS\Documents\Umg\7mo. ciclo 2023\Compiladores\Parcial final\Tarea calculadora\calculadora\calculadora\obj\Debug\calculadora.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Umg\7mo. ciclo 2023\Compiladores\Parcial final\Tarea calculadora\calculadora\calculadora\obj\Debug\calculadora.Form1.resources
+C:\Users\ASUS\Documents\Umg\7mo. ciclo 2023\Compiladores\Parcial final\Tarea calculadora\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\ASUS\Documents\Umg\7mo. ciclo 2023\Compiladores\Parcial final\Tarea calculadora\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Umg\7mo. ciclo 2023\Compiladores\Parcial final\Tarea calculadora\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Umg\7mo. ciclo 2023\Compiladores\Parcial final\Tarea calculadora\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\ASUS\Documents\Umg\7mo. ciclo 2023\Compiladores\Parcial final\Tarea calculadora\calculadora\calculadora\obj\Debug\calculadora.pdb
